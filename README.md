@@ -9,5 +9,3 @@ console.log("Second");<br/>
 console.log(console.get()); //get previously logged data<br/>
 console.clear(); //clear console<br/>
 console.log(console.get()); //cleared already
-
-WARNING: Still in process, testing it.
