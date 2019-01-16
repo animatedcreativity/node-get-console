@@ -3,7 +3,7 @@
   "//2": "https://docs.npmjs.com/files/package.json",
   "//3": "updating this file will download and update your packages",
   "name": "node-get-console",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Very simple way to get console.log data.",
   "main": "main.js",
   "scripts": {
